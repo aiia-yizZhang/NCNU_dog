@@ -1,0 +1,5 @@
+tqdm
+scikit-learn
+seaborn
+matplotlib
+tensorflow-gpu==2.5.0
